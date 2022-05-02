@@ -1,0 +1,19 @@
+{
+  "name": "slimapi",
+  "version": "1.0.0",
+  "description": "The API between Reddit and Slimmit",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Radix Schwar7z",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.7",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "node-fetch": "^3.2.4",
+    "snoowrap": "^1.23.0"
+  }
+}
